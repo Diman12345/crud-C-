@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "B0i8q++Z6Xt/4iMDnL128wOZf51+x2wBoEEwFE5fqWc=",
+  "Source": "internal-api",
+  "BasePath": "_content/internal-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "internal-api/wwwroot",
+      "Source": "internal-api",
+      "ContentRoot": "/Users/wardiman/Documents/Net/internal-api/wwwroot/",
+      "BasePath": "_content/internal-api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
