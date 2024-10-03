@@ -118,3 +118,5 @@
 /Users/wardiman/Documents/Net/internal-api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
 /Users/wardiman/Documents/Net/internal-api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
 /Users/wardiman/Documents/Net/internal-api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/wardiman/Documents/Net/internal-api/bin/Debug/net8.0/appsettings.Production.json
+/Users/wardiman/Documents/Net/internal-api/obj/Debug/net8.0/internal-api.sourcelink.json
