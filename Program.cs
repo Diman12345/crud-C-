@@ -22,6 +22,7 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddAuthentication();
 builder.Services.AddAuthorization();
 builder.Services.AddControllers().AddJsonOptions(options => {});
+// builder.Services.AddControllers().AddNewtonsoftJson();
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddDefaultTokenProviders();

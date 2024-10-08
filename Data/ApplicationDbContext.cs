@@ -11,4 +11,10 @@ public class ApplicationDbContext : IdentityDbContext<IdentityUser>
 
     public DbSet<Product> Products { get; set; }
     public DbSet<Category> Categories { get; set; }
+
+    public DbSet<Barang> Barang { get; set; }
+
+    public DbSet<Pegawai> Pegawais { get; set; }
+    public DbSet<Shifting> Shiftings { get; set; }
+    public DbSet<Fasilitas> Fasilitases { get; set; }
 }
